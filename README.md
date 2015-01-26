@@ -11,3 +11,5 @@ Elezen names, both Wildwood and Duskwright, are going to be drawn from pools, si
 Lalafell names are going to be generated, according to the rules of each, with appropriate last names.
 Roegadyn names are going to be generated, with Sea Wolf names using the Roegadyn dictionary provided
 Miqo'te names are going to be generated, according to the rules for them all.
+
+The name pools for Hyur and Elezen, as well as the dictionaries for Miqo'te and Roegadyn are possibly going to be limited, due to memory concerns.
